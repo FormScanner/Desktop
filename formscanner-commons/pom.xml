@@ -53,6 +53,6 @@
 	<properties>
 		<super-csv.version>2.1.0</super-csv.version>
 		<watchmaker-swing.version>0.7.1</watchmaker-swing.version>
-		<log4j.version>2.13.3</log4j.version>
+		<log4j.version>2.17.1</log4j.version>
 	</properties>
 </project>
